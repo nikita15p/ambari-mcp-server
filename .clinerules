@@ -1,0 +1,2 @@
+DO USE ONLY MCP SERVER (standard-mcp-server) for any Ambari cluster operations.
+DO NOT USE curl request. Using curl request is STRICTLY PROHIBITED>
